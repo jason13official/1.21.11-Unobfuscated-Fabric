@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.cursee.my_cool_mod.mixin",
+	"package": "com.example.cool_mod.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"BuiltInRegistriesMixin"
+		"ExampleMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
